@@ -3,6 +3,7 @@
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+    <ProjectTargetFramework>net6.0</ProjectTargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
